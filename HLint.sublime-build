@@ -1,0 +1,4 @@
+{
+	"cmd": ["/home/mmakowski/.cabal/bin/hlint", "$file"],
+	"file_regex": "^(.+?):([0-9]*):"
+}
