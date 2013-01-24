@@ -1,3 +1,5 @@
 [
-	{ "keys": ["ctrl+enter"], "command": "repl_transfer_current", "args": {"scope": "block"}}
+	{ "keys": ["ctrl+enter"], "command": "repl_transfer_current", "args": {"scope": "block"}},
+	{ "keys": ["ctrl+e"], "command": "find_under_expand" },
+	{ "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} }
 ]
