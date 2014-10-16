@@ -2,8 +2,14 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"AutoWrap",
+		"Git",
+		"GitGutter",
 		"LaTeXTools",
 		"Package Control",
+		"Rust",
+		"SML (Standard ML)",
+		"SublimeGit",
 		"SublimeHaskell",
 		"SublimeREPL"
 	]
