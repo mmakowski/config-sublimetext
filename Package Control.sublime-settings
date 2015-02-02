@@ -11,6 +11,7 @@
 	],
 	"installed_packages":
 	[
+		"AAAPackageDev",
 		"AutoWrap",
 		"CUDA C++",
 		"Git",

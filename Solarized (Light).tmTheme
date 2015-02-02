@@ -109,11 +109,11 @@
 			<key>name</key>
 			<string>Class name</string>
 			<key>scope</key>
-			<string>entity.name.class, entity.name.type.class</string>
+			<string>entity.name.class, entity.name.type.class, entity.name.state</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cb4b16</string>
+				<string>#b58900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -154,7 +154,10 @@
 			<key>scope</key>
 			<string>constant.language, meta.preprocessor</string>
 			<key>settings</key>
-			<dict/>
+			<dict>
+				<key>foreground</key>
+				<string>#6c71c4</string>
+			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
