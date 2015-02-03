@@ -8,11 +8,11 @@ uuid: af8f73cf-a7c8-49ef-8af4-271469fd70f7
 patterns:
 - match: \b(channel|assert)\b
   name: keyword.other.csp
-- match: (=|->|\|~\||\[\]|\[FD=|\[\|\{|\}\|\]|\|\|\|)
+- match: (=|->|\|~\||\[\]|;|/\\|\[\|\{|\}\|\]|\|\|\|)
   name: keyword.operator.csp
 - match: \b(STOP|SKIP)\b
   name: constant.language.csp
-- match: (\[FD=)
+- match: (\[FD=|\[F=|\[T=)
   name: keyword.operator.csp
 - match: \b(deadlock free)\b
   name: support.function.csp

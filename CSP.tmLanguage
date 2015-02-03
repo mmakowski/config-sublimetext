@@ -18,7 +18,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>(=|-&gt;|\|~\||\[\]|\[FD=|\[\|\{|\}\|\]|\|\|\|)</string>
+			<string>(=|-&gt;|\|~\||\[\]|;|/\\|\[\|\{|\}\|\]|\|\|\|)</string>
 			<key>name</key>
 			<string>keyword.operator.csp</string>
 		</dict>
@@ -30,7 +30,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>(\[FD=)</string>
+			<string>(\[FD=|\[F=|\[T=)</string>
 			<key>name</key>
 			<string>keyword.operator.csp</string>
 		</dict>
