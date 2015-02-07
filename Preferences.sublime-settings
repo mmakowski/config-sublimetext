@@ -5,8 +5,8 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"SublimeHaskell"
+		"SublimeHaskell",
+		"Vintage"
 	],
 	"line_numbers": false
 }
