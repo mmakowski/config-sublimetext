@@ -8,5 +8,7 @@
 		"SublimeHaskell",
 		"Vintage"
 	],
-	"line_numbers": false
+	"line_numbers": false,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true
 }
