@@ -1,13 +1,14 @@
 {
 	"color_scheme": "Packages/User/Solarized (Light).tmTheme",
 	"font_face": "Consolas",
-	"font_size": 15,
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"SublimeHaskell"
+		"SublimeHaskell",
+		"Vintage"
 	],
 	"line_numbers": false,
-	"scroll_speed": 0
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true
 }
