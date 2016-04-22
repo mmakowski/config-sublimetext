@@ -1,7 +1,6 @@
 {
 	"color_scheme": "Packages/User/Solarized (Light).tmTheme",
-	"font_face": "Consolas",
-	"font_size": 14,
+	"dpi_scale": 2.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
