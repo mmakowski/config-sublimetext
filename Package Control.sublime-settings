@@ -1,28 +1,25 @@
 {
 	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2",
-		"ssl-linux"
-	],
 	"installed_packages":
 	[
-		"AAAPackageDev",
 		"AutoWrap",
 		"CUDA C++",
 		"Git",
 		"GitGutter",
+		"Gradle_Language",
 		"LaTeXTools",
+		"OCaml",
 		"Package Control",
+		"PackageDev",
 		"Racket",
-		"Rust",
+		"Rust Enhanced",
 		"SML (Standard ML)",
-		"SublimeGit",
 		"SublimeHaskell",
-		"SublimeREPL"
+		"SublimeREPL",
+		"WordCount"
 	]
 }
